@@ -1,6 +1,6 @@
 
 
-import React from 'react';
+
 import useWebAnimations from "@wellyshen/use-web-animations";
 import '../App.css';
 import sceneryFrames from './sceneryFrames'
